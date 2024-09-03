@@ -36,7 +36,7 @@ ko-KR: &DEFAULT_KR
         desc: "java, jdbc, mysql, tomcat, html, css, javascript, jquery, spring boot, spring security, jpa, thymeleaf 기술을 사용하여 악성메일 훈련 시스템 개발.
               로그인 기능, 조직 등록 기능(회사, 부서, 팀, 회원 등 CSV 파일을 이용한 등록 기능 및 수동 추가 기능), 신고 관리 기능(훈련 메일 수신시 자동으로 신고 담당자에게 신고 메일 전송 기능),
                개인 정보 수정 기능, 훈련 메일 전송 테스트 기능, 훈련 시나리오 생성 및 수정 관리 기능, 훈련 등록 기능, 훈련 상태 조회 기능, 메일 서버 설정 기능, 훈련 결과 요약 기능, 훈련 보고서 자동으로 출력 기능 등 보유"
-        icon: fas fa-laptop
+        icon: fab fa-chrome
       - title: "쉘 스크립트 개발"
         desc: "리눅스 쉘 스크립트 기술을 사용하여 인프라 진단용 스크립트 개발.
               주통, 2023 금통 기반 리눅스 서버 진단 스크립트 개발, ORACLE, MYSQL, MARIADB 용 진단 스크립트 개발"
