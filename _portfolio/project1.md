@@ -1,20 +1,19 @@
 ---
-title: bitmex 자동 거래 시스템
+title: binance 및 업비트 자동 매매 시스템
 subtitle: python 프로젝트
-image: assets/img/portfolio/bitmex2.jpg
+image: assets/img/portfolio/Binance.jpg
 alt: 
 
 caption:
-  title: bitmex 자동 거래 시스템
+  title: binance 및 업비트 자동 매매 시스템
   subtitle: python 프로젝트
-  thumbnail: assets/img/portfolio/bitmex2.jpg
+  thumbnail: assets/img/portfolio/Binance.jpg
 ---
 
-python과 websocket, Rest API 및 Asyncio를 사용하여 개발중, 아직 해야 할 것이 상당히 많습니다. 
+파이썬을 사용하여 websocket과 RestAPI를 사용, 자동으로 현재 시세와 일봉, 30분봉 정보를 가져오고, 변동성 돌파 전략을 바탕으로 자동으로 특정 종목을 매매하는 프로그램
 
 {:.list-inline}
 
-- Date: 2021-09 ~ 진행중
+- Date: 2021-09 ~ 2024-07-11
 - Category: python 프로젝트
 
-<button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/bitmexPortfolio')">보기</button>

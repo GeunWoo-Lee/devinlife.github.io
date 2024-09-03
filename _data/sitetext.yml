@@ -26,12 +26,21 @@ ko-KR: &DEFAULT_KR
       - title: "11번가 쇼핑 프로그램"
         desc: "파이썬을 이용한 11번가 자동 쇼핑 프로그램. 11st 쇼핑 api와 chrome driver, selenium을 사용하여 지정된 시간에 자동으로 로그인하여 11번가 상품을 구매 가능"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "bitmex 구독 프로그램(개발중)"
-        desc: "파이썬을 사용하여 websocket과 RestAPI를 사용할 예정, 자동으로 현재 시세와 1분봉, 5분봉 정보를 가져온다. "
+      - title: "binance 및 업비트 자동 매매 시스템 개발"
+        desc: "파이썬을 사용하여 websocket과 RestAPI를 사용, 자동으로 현재 시세와 일봉, 30분봉 정보를 가져오고, 변동성 돌파 전략을 바탕으로 자동으로 특정 종목을 매매하는 프로그램 "
         icon: fas fa-laptop
       - title: "Java Spring 프로젝트"
         desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis의 기술을 사용하여 간단한 프로젝트 구현"
         icon: fab fa-chrome
+      - title: "악성메일 훈련 시스템(WMTS)"
+        desc: "java, jdbc, mysql, tomcat, html, css, javascript, jquery, spring boot, spring security, jpa, timeleaf 기술을 사용하여 악성메일 훈련 시스템 개발.
+              로그인 기능, 조직 등록 기능(회사, 부서, 팀, 회원 등 CSV 파일을 이용한 등록 기능 및 수동 추가 기능), 신고 관리 기능(훈련 메일 수신시 자동으로 신고 담당자에게 신고 메일 전송 기능),
+               개인 정보 수정 기능, 훈련 메일 전송 테스트 기능, 훈련 시나리오 생성 및 수정 관리 기능, 훈련 등록 기능, 훈련 상태 조회 기능, 메일 서버 설정 기능, 훈련 결과 요약 기능, 훈련 보고서 자동으로 출력 기능 등 보유"
+        icon: fas fa-laptop
+      - title: "쉘 스크립트 개발"
+        desc: "리눅스 쉘 스크립트 기술을 사용하여 인프라 진단용 스크립트 개발.
+              주통, 2023 금통 기반 리눅스 서버 진단 스크립트 개발, ORACLE, MYSQL, MARIADB 용 진단 스크립트 개발"
+        icon: fas fa-laptop
       
   portfolio:
     title: "Portfolio"
@@ -41,10 +50,10 @@ ko-KR: &DEFAULT_KR
 
   about:
     title: "About"
-    text: "&ldquo;직업 학교 자바 선생님으로 근무했었어요. 그런데... &rdquo;"
-    body: "&ldquo;개발이 하고 싶었어요.&rdquo;"
+    text: "&ldquo;새로운 프로젝트&rdquo;"
+    body: "&ldquo;.&rdquo;"
     section: about
-  
+
 
   timeline:
     title: "Timeline"
@@ -53,6 +62,11 @@ ko-KR: &DEFAULT_KR
     # left is the default
     #start_align: "left"
     events:
+      - title: "시큐와우 개발팀장"
+        year: "2022.04.21-2024.07.11"
+        desc: "java와 C#, Linux, 쉘 스크립트를 사용한 악성메일 훈련 시스템 개발 및 인프라 진단 스크립트 개발, 인프라 진단 컨설턴팅"
+        image: assets/img/timeline/3.jpg
+        alt:
       - title: "한국정보교육원의 훈련교사 "
         year: "2019.10.14-2021.02.01"
         desc: "java를 이용한 백엔드와 프론트엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
@@ -70,11 +84,11 @@ ko-KR: &DEFAULT_KR
 
 
   team:
-    title: "팀원 소개"
-    text: "&ldquo;아직은 혼자에요&rdquo;" 	
+    title: "소개"
+    text: "&ldquo;&rdquo;"
     people:
       - name: "이근우"
-        role: "개발자 지망생"
+        role: "전시큐와우개발팀장 및 모의해킹"
         image: assets/img/team/3.jpg	
         
   contact:
