@@ -1,11 +1,11 @@
 ---
-title: 보안 스크립트 개발 
+title: 보안 쉘 스크립트 개발 
 subtitle: 리눅스 쉘 스크립트 개발
 image: assets/img/portfolio/script.png
 alt: 
 
 caption:
-  title: 보안 스크립트 개발
+  title: 보안 쉘 스크립트 개발
   subtitle: 리눅스 쉘 스크립트 개발
   thumbnail: assets/img/portfolio/script.png
 ---
