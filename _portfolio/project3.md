@@ -19,5 +19,4 @@ caption:
 - Date: 2021-09 
 - Category: ruby jekyll 프로젝트
 
-<button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/github.io')">보기</button>
 
