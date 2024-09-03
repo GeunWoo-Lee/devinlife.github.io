@@ -1,13 +1,13 @@
 ---
-title: git 홈페이지
-subtitle: ruby jekyll 프로젝트
-image: assets/img/portfolio/ruby2.jpg
+title: 보안 스크립트 개발 
+subtitle: 리눅스 쉘 스크립트 개발
+image: assets/img/portfolio/script.png
 alt: 
 
 caption:
-  title: git 홈페이지
-  subtitle: ruby jekyll 프로젝트
-  thumbnail: assets/img/portfolio/ruby.jpg
+  title: 보안 스크립트 개발
+  subtitle: 리눅스 쉘 스크립트 개발
+  thumbnail: assets/img/portfolio/script.png
 ---
 
 쉘 스크립트 개발"
