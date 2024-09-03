@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/WMTS.png
 ---
 
-java, jdbc, mysql, tomcat, html, css, javascript, jquery, spring boot, spring security, jpa, Thymeleaf 기술을 사용하여 악성메일 훈련 시스템 개발.
+java, jdbc, mysql, tomcat, html, css, javascript, jquery, spring boot, spring security, jpa, thymeleaf 기술을 사용하여 악성메일 훈련 시스템 개발.
 <br>
 
 기능 : 로그인 기능, 조직 등록 기능(회사, 부서, 팀, 회원 등 CSV 파일을 이용한 등록 기능 및 수동 추가 기능), 신고 관리 기능(훈련 메일 수신시 자동으로 신고 담당자에게 신고 메일 전송 기능),
